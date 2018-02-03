@@ -2,7 +2,6 @@
 
 ## Author
 Jonathan Ho
-Wentao Xu
 
 ## Project Details
 This program consists of writing a command shell in C++. The command shell, titled rshell,
